@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/OnlineJobSerach.iml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/vcs.xml
